@@ -13,7 +13,3 @@ public class latihan1uts {
         System.out.println("Nilai konversi : " + inch);
     }
 }
-# 2. Menghitung Basic Metabolic Rate (MBR)
-# 3. Menghitung jarak ojol memakai diskon
-# 4. Menghitung pajak berdasarkan stasus (kawin/tidak kawin)
-# 5. Memvalidasi nilai menggukana huruf (A-E)
