@@ -79,7 +79,7 @@ public class latihan3uts {
 }
 
 ```
-# 4. Menghitung pajak berdasarkan pajak (KAWIN/TIDAK KAWIN)
+# 4. Menghitung pajak berdasarkan status (KAWIN/TIDAK KAWIN)
 ```java
 import java.io.BufferedReader;
 import java.io.IOException;
