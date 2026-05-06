@@ -112,7 +112,7 @@ public class latihan4uts {
                 pajak = pendapatan * 0.25;
             } 
         }
-        System.out.println("Pajak anda adalah sebesar : Rp " + String.format("%.0f", pajak));;
+        System.out.println("Pajak anda adalah sebesar : Rp " + String.format("%.0f", pajak));
     }
 }
 ```
