@@ -96,7 +96,7 @@ public class latihan4uts {
         int pendapatan = Integer.parseInt(br.readLine());
         double pajak = 0;
         if (status == 1) {
-            if (pendapatan >= 0 && pendapatan <= 70000000) {.
+            if (pendapatan >= 0 && pendapatan <= 70000000) {
                 pajak = pendapatan * 0.05;
             } else if (pendapatan >= 70000000 && pendapatan <= 270000000) {
                 pajak = pendapatan * 0.15;
