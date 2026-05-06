@@ -132,7 +132,7 @@ public class latihan5uts {
                 JOptionPane.showMessageDialog(null, "Nilai baik");
             break;
             case 'C':
-                JOptionPane.showMessageDialog(null, "Nilai cukup");M
+                JOptionPane.showMessageDialog(null, "Nilai cukup");
             break;
             case 'D':
                 JOptionPane.showMessageDialog(null, "Nilai kurang");
