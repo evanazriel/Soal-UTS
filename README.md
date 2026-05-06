@@ -101,7 +101,7 @@ public class latihan4uts {
             } else if (pendapatan >= 70000000 && pendapatan <= 270000000) {
                 pajak = pendapatan * 0.15;
             } else {
-                pajak = pendapatan * 0.25;M
+                pajak = pendapatan * 0.25;
             }
         } else if (status == 2) {
            if (pendapatan >= 0 && pendapatan <= 50000000) {
